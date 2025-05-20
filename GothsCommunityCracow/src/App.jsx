@@ -1,10 +1,12 @@
 import Header from "./Header"
+import Pfp from "./Pfp"
 
 function App() {
 
   return (
     <>
-      <Header className="Header" name="Nazwa strony" />
+      <Header name="Goths Community Cracow" />
+      <Pfp/>
     </>
   )
 }

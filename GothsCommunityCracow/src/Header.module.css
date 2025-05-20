@@ -1,0 +1,14 @@
+.Header {
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(17, 17, 17);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.Header p {
+    margin-left: 50px;
+    font-size: 30px;
+}

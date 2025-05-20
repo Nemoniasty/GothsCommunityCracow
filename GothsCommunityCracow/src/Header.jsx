@@ -4,9 +4,7 @@ function Header({name="no name"}) {
     
     return(
         <>
-            <Header className="Header">
-                {name}
-            </Header>
+            <p>{name}</p>
         </>
     )
 }

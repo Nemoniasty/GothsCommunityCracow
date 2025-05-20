@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <Header name="Nazwa strony" />
+      <Header className="Header" name="Nazwa strony" />
     </>
   )
 }

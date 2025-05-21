@@ -1,8 +1,10 @@
 import styles from "./Pfp.module.css"
 
+import nemo from "./assets/nemo.jpg"
+
 function Pfp() {
     return(
-        <img src="nemo.jpg" alt="" />
+        <img className={styles.Pfp} src={nemo} alt="" />
     )
 }
 

@@ -1,4 +1,5 @@
-img {
-    border: black solid 3px;
+.Pfp {
+    border: black solid 2px;
     border-radius: 50%;
+    width: 50px;
 }

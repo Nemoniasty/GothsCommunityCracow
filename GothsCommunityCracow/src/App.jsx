@@ -10,7 +10,7 @@ function App() {
     <div className={styles.App}>
       <link href="https://fonts.googleapis.com/css2?family=Jacquard+24&display=swap" rel="stylesheet"></link>
       <Header name="Goths Community Cracow" />
-      <Content>
+      <Content className={styles.content}>
 
         <h1>Upcoming Events</h1>
         <div className={styles.events}>

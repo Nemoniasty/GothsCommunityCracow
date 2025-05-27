@@ -40,7 +40,7 @@ function App() {
         <p>Goths Community Cracow &nbsp;</p>
         <p>Contact: goths.community.cracow@gmail.com &nbsp;</p>
         <div className={styles.creators}>
-          <Pfp /><u>Made by Nemoniasty</u>
+          <Pfp /><u>Made by Aleksander Słowik</u> 
         </div>
       </Footer>
     </div>

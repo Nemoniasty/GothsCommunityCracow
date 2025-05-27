@@ -9,6 +9,7 @@ function App() {
   return (
     <div className={styles.App}>
       <link href="https://fonts.googleapis.com/css2?family=Jacquard+24&display=swap" rel="stylesheet"></link>
+      <link href="https://fonts.googleapis.com/css2?family=Metamorphous&family=Rock+3D&display=swap" rel="stylesheet"></link>
       <Header name="Goths Community Cracow" />
       <Content className={styles.content}>
 
@@ -40,7 +41,7 @@ function App() {
         <p>Goths Community Cracow &nbsp;</p>
         <p>Contact: goths.community.cracow@gmail.com &nbsp;</p>
         <div className={styles.creators}>
-          <Pfp /><u>Made by Aleksander Słowik</u> 
+          <Pfp /><u>Made by Nemoniasty</u>   
         </div>
       </Footer>
     </div>

@@ -5,6 +5,8 @@ function Header({name="no name"}) {
     return(
         <header className={styles.Header}>
             <p>{name}</p>
+            <div className={styles.nav}>
+            </div>
         </header>
     )
 }

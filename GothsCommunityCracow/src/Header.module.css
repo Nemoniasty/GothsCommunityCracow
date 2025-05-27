@@ -1,5 +1,5 @@
 .Header {
-    width: 100vw;
+    width: 100%;
     min-height: 10vh;
     background-color: rgb(0, 0, 0);
     color: white;
@@ -11,9 +11,20 @@
 .Header p {
     margin-left: 50px;
     font-size: 50px;
-    font-family: 'Jacquard 24', cursive;
+    font-family: 'Metamorphous', cursive;
 }
 
 a{
     color: rgb(42, 137, 247);
 }
+
+.nav {
+    color: white;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+} 
